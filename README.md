@@ -1,8 +1,7 @@
 # Digital Laboratory Power Supply
 
-#### This project was done when I was 11th grade(2019). The idea of this app is to control Laboratory Power Supply using PC
+#### This project was done when I was 11th grade(2019). The main idea was to create an Power Supply which was controlled programmatically.
 #### UI was written in C#. By that time I was not so good at programming. So the code may look like spaghetti.
-#### The main idea was to create an Power Supply which was controlled programmatically.
 
 ## It was presented in ICT Week (2019) which was held in Dushanbe, Tajikistan. 
 ### My infinite thanks to my greatest mentor who taught me not only electronics but also taught the rules of Life
