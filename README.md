@@ -4,7 +4,7 @@
 #### UI was written in C#. By that time I was not so good at programming. So the code may look like spaghetti.
 #### The main idea was to create an Power Supply which was controlled programmatically.
 
-## It was presented in ICT Week which was held in Dushanbe, Tajikistan.
+## It was presented in ICT Week (2019) which was held in Dushanbe, Tajikistan. 
 ### My infinite thanks to my greatest mentor who taught me not only electronics but also taught the rules of Life
 
 ## Previews:
