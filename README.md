@@ -24,3 +24,8 @@
 <img align="left" alt="" width="400" src="https://github.com/behzodfaiziev/digitallps/assets/63793311/77f2f85b-1708-4f82-8139-9ebf0975065e" />
 <img  alt="" width="400" src="https://github.com/behzodfaiziev/digitallps/assets/63793311/78712a2e-6078-47db-9c9a-2d9881598dcd" />
 
+
+https://github.com/behzodfaiziev/digitallps/assets/63793311/41696d42-b762-48c3-bbb3-42957e2bc753
+
+
+
